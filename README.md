@@ -2,6 +2,9 @@
 
 In the project directory, you can run:
 
+### `yarn install`
+Installs all the dependencies required for the boilerplate to work.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
