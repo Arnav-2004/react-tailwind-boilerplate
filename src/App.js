@@ -1,6 +1,6 @@
+import React from "react";
 import { Route, Switch } from "react-router-dom";
 
-import React from "react";
 import Hero from "./components/Hero";
 import Error from "./components/Error";
 
