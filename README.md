@@ -1,6 +1,6 @@
 # react-tailwind-boilerplate
 
-This is a simple beginner friendly react application with [tailwindcss](https://tailwindcss.com/) support. <br><br>
+This is a simple and beginner friendly react application with [tailwindcss](https://tailwindcss.com/) support. <br><br>
 
 In the project directory, you can run:
 
